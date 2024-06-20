@@ -1,0 +1,48 @@
+.Top
+{
+    height: 10px;
+    border: 3px solid rgb(120, 175, 247);
+    background-color: aquamarine;
+}
+html{
+    background-color: black;
+    color: aliceblue;
+}
+.NEW
+{
+    color:aliceblue;
+    font-size: small;
+    color: aquamarine;
+}
+.name
+{
+    color: rgb(120, 175, 247);
+    text-align: center;
+    background-color: aquamarine;
+}
+img{
+   width: 200px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto; 
+}
+a{
+    color: greenyellow;
+}
+a:visited
+{
+    color: greenyellow;
+}
+.bodily
+{
+    color: aquamarine;
+    font-size: small;
+}
+.color-change-word
+{
+    color: rgb(120, 175, 247);
+}
+#size-chit
+{
+    font-size: large;
+}
